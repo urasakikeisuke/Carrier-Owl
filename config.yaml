@@ -10,7 +10,8 @@ keywords:
         semantic: 3
         semantic segmentation: 3
         object detection: 3
-        transformer: 3 
+        transformer: 3
+        self-attention: 3
 
 # 通知の閾値
 score_threshold: 0
